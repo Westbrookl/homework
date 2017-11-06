@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1在第一个页面中，hello页面跳转到百度页面
+ 在下面通过JavaScript显示出机器的时间。
+**第二个是建立一个数据库，在页面上对数据库可以进行增加减少删除。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
